@@ -1,4 +1,4 @@
-# Diabetes-Patients
+# Diabetes_Patients
 My Second Project ' Diabetes Patients' which is a part of Internhsip at MeriSKILL
 📊 Exciting Update from my Data Analyst Internship Project! 📈
 
