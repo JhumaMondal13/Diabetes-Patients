@@ -1,5 +1,5 @@
 # Diabetes_Patients
-My Second Project ' Diabetes Patients' which is a part of Internhsip at MeriSKILL
+My Second Project ' Diabetes Patients' which is a part of Internship at MeriSKILL
 📊 Exciting Update from my Data Analyst Internship Project! 📈
 
 I'm thrilled to share some highlights from my second project during my Data Analyst internship. 🎓
